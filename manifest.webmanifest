@@ -1,0 +1,25 @@
+{
+  "name": "SSW Gestão — Vistorias, laudos e atividades",
+  "short_name": "SSW Gestão",
+  "description": "Sistema interno da SSW Medicina e Segurança do Trabalho",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b8f9b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
